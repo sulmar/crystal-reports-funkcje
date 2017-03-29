@@ -1,0 +1,1 @@
+# crystal-reports-funkcje
